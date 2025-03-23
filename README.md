@@ -29,7 +29,7 @@ Most of the time though when you run this program, the IDE will automatically be
 
 3. **UML Diagram**
 
-If you want to see the UML Diagram completely or create one of your own using a similar Java structure language, then use follow these steps
+If you want to see the UML Diagram completely or create one of your own using a similar Java structure language, then follow these steps
 
    - Install VSCode
    - Go to extensions and install Plant UML
