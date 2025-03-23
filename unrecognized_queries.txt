@@ -1,0 +1,2 @@
+& C:/Users/Marco30/AppData/Local/Programs/Python/Python313/python.exe c:/PYTHON/Chat-Bot/chat_bot.py
+hello please help me
