@@ -34,7 +34,7 @@ If you want to see the UML Diagram completely or create one of your own using a 
    - Install VSCode
    - Go to extensions and install Plant UML
    - Create a file with ending .wsd 
-   - Begin the UML diagram with @startuml "name"
+   - Begin the UML diagram with @startuml "your_project_name"
    - End the UML diagram with @enduml
    - Click the book with a magnifying glass in the top right corner to see the full UML diagram
 
