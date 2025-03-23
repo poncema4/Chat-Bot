@@ -9,7 +9,7 @@ Interactive Chat Bot that allows the user to communicate with the bot which is a
 
 1. **Install Dependencies**
 
-  Make sure you are using the latest python version in your IDE and the latest versions of the prerequisites/requirements.txt
+Make sure you are using the latest python version in your IDE and the latest versions of the prerequisites/requirements.txt
 
 2. **Usage**
 
@@ -26,6 +26,17 @@ For example:
 ```
 
 Most of the time though when you run this program, the IDE will automatically be able to retrive the correct file where you are trying to access the program from
+
+3. **UML Diagram**
+
+If you want to see the UML Diagram completely or create one of your own using a similar Java structure language, then use follow these steps
+
+   - Install VSCode
+   - Go to extensions and install Plant UML
+   - Create a file with ending .wsd 
+   - Begin the UML diagram with @startuml "name"
+   - End the UML diagram with @enduml
+   - Click the book with a magnifying glass in the top right corner to see the full UML diagram
 
 ## Run Program
 
