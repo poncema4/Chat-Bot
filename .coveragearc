@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = Mini Project 2
+omit =
+    Mini Project 2/chat_bot.py
+    Mini Project 2/queries.json
+    Mini Project 2/test_chat_bot.py
