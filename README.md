@@ -40,7 +40,34 @@ If you want to see the UML Diagram completely or create one of your own using a 
 
 ## Run Program
 
-Just press the right triangle on the top of your IDE to run your program and start using the Chat Bot! :)
+To make the chat bot more visually appealing for the user we want them to hide all the backend code that was implemented, so using the batch file attached
+click on it or follow these steps:
 
-Chat Bot is still a work in progress so it may not have the answer to everything you may ask it but the database is expanding from questions
-and feedbacks from users to be updated in the near future.
+1. **Notepad** -> (Skip this step if you already have the batch file)
+
+```Notepad
+@echo off
+:: Get the directory where this batch file is located
+set SCRIPT_DIR=%~dp0
+
+:: Run the Python script from its original directory
+cd /d "%SCRIPT_DIR%"
+python chat_bot.py
+```
+
+This is what is in the batch file and should be in the same directory as the chat_bot.py, naming the batch file something like chat_bot.bat, already done by me.
+
+2. **Open up Command Prompt** 
+
+```Command Prompt -> Step 1
+ cd C:\path\to\python\folder 
+```
+
+Then
+
+```Command Prompt -> Step 2
+chat_bot
+```
+
+After following these steps and typing step 1 and 2 into Command Prompt you should see get the chat bot working in the terminal without having to be in any IDE
+
