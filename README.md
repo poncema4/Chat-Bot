@@ -11,7 +11,7 @@ Interactive Chat Bot that allows the user to communicate with the bot which is a
 
 Make sure you are using the latest python version in your IDE and the latest versions of the prerequisites/requirements.txt
 
-2. **Usage** (Option to run the file in the IDE)
+2. **Usage**
 
 Run the chat_bot.py file in the specified path that it is located on
 
@@ -38,7 +38,7 @@ If you want to see the UML Diagram completely or create one of your own using a 
    - End the UML diagram with @enduml
    - Click the book with a magnifying glass in the top right corner to see the full UML diagram
 
-## Run Program (Option to run the file in Command Prompt)
+## Run Program
 
 To make the chat bot more visually appealing for the user we want them to hide all the backend code that was implemented, so using the batch file attached
 click on it or follow these steps:
