@@ -71,3 +71,4 @@ chat_bot
 
 After following these steps and typing step 1 and 2 into Command Prompt you should see get the chat bot working in the terminal without having to be in any IDE
 
+![image](https://github.com/user-attachments/assets/bdb494b1-cc4e-40de-9d2c-6f73d098fd18)
