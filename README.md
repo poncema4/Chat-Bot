@@ -60,7 +60,7 @@ This is what is in the batch file and should be in the same directory as the cha
 2. **Open up Command Prompt** 
 
 ```Command Prompt -> Step 1
- cd C:\path\to\python\folder 
+ cd C:\path\to\folder 
 ```
 
 Then
